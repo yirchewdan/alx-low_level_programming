@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -S assemble.c -o assemble.s
