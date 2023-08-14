@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-int i,j;
+int i, j;
 for (i = 97; i <= 122; i++)
 {
 putchar(i);
