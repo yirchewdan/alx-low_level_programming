@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main(void)
 {
-int i, j;
-for (i = 48; i <= 57; i++)
+int a, j;
+for (a = 48; a <= 57; a++)
 {
-putchar(i);
+putchar(a);
 }
 for (j = 97; j <= 102; j++)
 {
