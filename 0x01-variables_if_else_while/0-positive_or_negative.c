@@ -3,7 +3,8 @@
 #include <time.h>
 /* more headers goes there 
 *
-/* The main function which serves as the entry point of the program */
+* The main function which serves as the entry point of the program 
+*/
 int main(void)
 {
 int n;
