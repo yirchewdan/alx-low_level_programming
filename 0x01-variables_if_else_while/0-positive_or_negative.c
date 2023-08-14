@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* more headers goes there 
+/* more headers goes there
 *
 * The main function which serves as the entry point of the program 
 */

@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+A C program to print the english alphabets 
+*in both lower and uppercase
+*/
 int main(void)
 {
 int i, j;
