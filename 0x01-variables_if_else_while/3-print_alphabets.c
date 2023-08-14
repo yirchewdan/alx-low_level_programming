@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-A C program to print the english alphabets 
+*A C program to print the english alphabets 
 *in both lower and uppercase
 */
 int main(void)
